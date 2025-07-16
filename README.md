@@ -1,4 +1,4 @@
-# AlmaBetter-Flashcard-Generator
+# AlmaBetter-Soumya-Flashcard-Generator
 
 This is a frontend Capstone project given by the Almabetter which is Flashcard Generator.
 
@@ -19,12 +19,6 @@ Start the server
 ```bash
   npm run start
 ```
-
-## Authors
-
-- [@Naveen Singh](https://github.com/iamnaveensingh)
-- [@Vikas Singh](https://github.com/vikassingh8)
-- [@Naresh Kumhar](https://github.com/nareshkumhar619)
 
 
 ## Tech Stack
