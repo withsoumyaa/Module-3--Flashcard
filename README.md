@@ -4,7 +4,7 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 
 ## Deployment
 
-[Click Here](https://flashcard-generator-naveen.vercel.app/) to see my flashcard generator website.
+[Click Here](https://module-3-flashcard.vercel.app/) to see my flashcard generator website.
 
 ## Run Locally
 
